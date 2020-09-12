@@ -21,5 +21,6 @@ def output_array (array)
   
   while array[n] do
     puts array[n]
-    
+    n += 1
+  end
 end
