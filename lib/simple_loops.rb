@@ -14,6 +14,6 @@ def loop_message_n_times(message, number)
 
   while number <= 5 do
     puts message
-    
+    number += 1
   end
 end
